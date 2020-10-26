@@ -1,0 +1,13 @@
+ul  {
+    display: flex;
+    
+    
+}
+
+ul li {
+    padding-left: 15px;
+}
+
+ul li a i {
+    color: grey;
+}

@@ -1,0 +1,30 @@
+.container {
+    margin-top: 20px;
+    margin-bottom: 20px ;
+    
+}
+
+h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #9e9e9e ;
+}
+
+span {
+    font-family: medium, Italic;
+    font-weight: 1000;
+    color: #bdbdbd;
+}
+
+
+.responsive-img {
+    max-width: 20px;
+}
+
+i {
+    font-size: 40px;
+    padding: 3rem;
+}
+
+.backgroundSkills {
+    background-color: tomato;
+}
